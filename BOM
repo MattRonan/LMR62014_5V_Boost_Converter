@@ -1,0 +1,11 @@
+
+Part	Value	    Package	
+C1	  2.2u	    CAP_0603
+C2	  4.7u	    CAP_0603
+CF	  647p	    CAP_0603	
+D1	  2A	      DIODE_SOD-123FL	
+L1	  10uH	    NRS6045T100MMGKV
+R1	  41K	      RESISTOR_0603
+R2	  13.3K	    RESISTOR_0603
+R3	  47K	      RESISTOR_0603
+U$1	  LMR62014	SOT23-5		
